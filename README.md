@@ -1,7 +1,7 @@
 skypealizer
 ===========
 
-a little app to analyze skypes sqlite database
+a little app to analyze skype sqlite databases
 
 Features
 -----
